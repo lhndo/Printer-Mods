@@ -4,6 +4,15 @@ https://github.com/churls5495/Annex-Engineering_User_Mods/tree/main/Extruders/Sh
 <br>
 <img src="images/stiffy.png" width=50%>
 
+<br>
+<br>
+
+
+
+For the Pahetus Dragonfly BMS hotend you have to print the BMS spacer and any other parts marked BMS <br> 
+<br>
+<img src="images/bms.png" width=50%>
+
 
 Note: For BL Touch probes you have to get the NoProbes version and then print a mount that attaches to the front fan like the one below:<br> 
 https://www.printables.com/model/77226-fan-mounted-bltouch-multiple-models-including-cove
