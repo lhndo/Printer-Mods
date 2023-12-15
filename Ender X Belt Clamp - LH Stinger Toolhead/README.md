@@ -19,6 +19,7 @@ This mod adapts the [LH Stinger](https://github.com/lhndo/LH-Stinger) Toolheads 
 ## Notes
 
 <br>
+
 For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
 
 <br>
