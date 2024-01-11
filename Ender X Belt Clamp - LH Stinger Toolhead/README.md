@@ -4,7 +4,7 @@
 
 <br>
 
-This mod adapts the LH Stinger Toolheads for the Ender 3 printers with a MGN12H linear rail on the X axis. 
+This mod adapts the [LH Stinger](https://github.com/lhndo/LH-Stinger) Toolheads for the Ender 3 printers with a MGN12H linear rail on the X axis. 
 
 <br>
 
@@ -22,6 +22,7 @@ This mod adapts the LH Stinger Toolheads for the Ender 3 printers with a MGN12H 
 ## Notes
 
 <br>
+
 For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
 
 <br>

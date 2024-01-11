@@ -4,7 +4,7 @@
 
 <br>
 
-This mod adapts the LH Stinger CF Carriage and Bed to the Ender 3 builds with a 4040 Y extrusion (Ender 3 Pro, V2 and the Neo variations) and two 300mm MGN12H linear rails. 
+This mod adapts the [LH Stinger](https://github.com/lhndo/LH-Stinger) CF Carriage and Bed to the Ender 3 builds with a 4040 Y extrusion (Ender 3 Pro, V2 and the Neo variations) and two 300mm MGN12H linear rails. 
 
 The carriage supports both the 200mm CF bed and the standard Ender 3 bed, sharing the same screw mount pattern.  
 The print area might vary on the 235mm bed depending on the toolhead used and the stepper mount and tensioner used. 
