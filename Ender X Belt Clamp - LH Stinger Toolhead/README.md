@@ -12,7 +12,10 @@ This mod adapts the LH Stinger Toolheads for the Ender 3 printers with a MGN12H 
 
 ![](Images/xcut.png)    
 
+![](Images/croc.png)  
+ 
 ![](Images/xslice.png)   
+
 
 <br>
 
