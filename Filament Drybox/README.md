@@ -25,7 +25,7 @@ Print weight - 260g
 # BOM 
 
 
-* 2mm Clear Acrylic Sheet 223x218mm
+* 2mm Clear Acrylic Sheet 223x218mm (DIY cut and drill)
 * 5x4 Heat Inserts x 5
 * M3 8mm Countersunk Screws x 5
 * D-Shape Weather Stripping Rubber Seal
