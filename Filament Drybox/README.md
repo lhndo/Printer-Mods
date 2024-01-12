@@ -37,7 +37,7 @@ Print weight - 260g
 # Print Settings
 
 **Filament**: PLA  
-**Nozzle Size**: 0.4 or 0.5 mm 
+**Nozzle Size**: 0.4 or 0.5 mm  
 **Layer Height**: 0.25  
 **Perimeters**: 2  
 **Bottom/Top Layer**: 3/2  
