@@ -40,8 +40,8 @@ Print weight - 260g
 **Nozzle Size**: 0.4 or 0.5 mm  
 **Layer Height**: 0.25  
 **Perimeters**: 2  
-**Bottom/Top Layer**: 3/2  
-**Line Width**: 0.46/0.54 
+**Bottom/Top Layer**: 2/3  
+**Line Width**: 0.54 
 **Infill Density**: 10%   
 **Infill Type**: Honeycomb  
 **Wall Generator**: Classic
