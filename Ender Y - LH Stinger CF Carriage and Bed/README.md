@@ -1,6 +1,6 @@
 # Ender 3 / LH Stinger CF Carriage and Bed 
 
-**Beta** - *Untested*
+**Beta** - *In testing*
 
 <br>
 
@@ -28,6 +28,7 @@ For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCf
 <br>
 
 * If you use a default rear stepper motor mount which sits higher than the belt, then you will need to cut the following arms from the top carriagge plate. This change should not make a big impact on the structural support.
+* A lower motor mount can be used instead to aviod this. (Ask on the LH Stinger Discords)
 
 ![](Images/carriagecut.png)    
 
@@ -38,14 +39,19 @@ For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCf
 * The silicon bed spacers are cut from a standard red 16mm silicon bed spacer.    
 The cutting jig can be found here: https://github.com/lhndo/LH-Stinger/blob/main/STL/Other/Silicone%20Bed%20Spacer%20Cutting%20Jig.stl
 
+## Requirements
+
+- Low profile front tensioner.
+- Low profile motor mount (Optional, to avoid cutting the CF carriage)
 
 ## BOM
 
 - LH Stinger CF Bed and Carriage kit
 - LH Stinger Polyimide Bed Heater - 200W
 - 2x 300mm MGN12H Linear Rails (Z1 preload preferred)
-- Red 16mm silicone bed spacer
+- Red 16mm silicone bed spacer (Optional, for cutting into 2mm strips)
 - Fasteners
+- Gates 2mgt belt (new Y belt might be needed)
 
 <br>
 
