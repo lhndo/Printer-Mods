@@ -1,6 +1,5 @@
 # Ender 3 Belt Attachment for LH Stinger Toolheads 
 
-**Beta** - *Untested*
 
 <br>
 
@@ -16,8 +15,15 @@ This mod adapts the [LH Stinger](https://github.com/lhndo/LH-Stinger) Toolheads 
  
 ![](Images/xslice.png)   
 
-
 <br>
+
+
+## Aligned Belt Path Version
+
+* The aligned belt path version is designed to keep keeping both sides of the belt colinear.
+* This requires precise alignment of the belt path and may require some tweaking to get it right.
+
+![](Images/al.png)  
 
 ## Notes
 
