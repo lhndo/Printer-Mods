@@ -5,6 +5,7 @@
 
 This mod adapts the [LH Stinger](https://github.com/lhndo/LH-Stinger) Toolheads for the Ender 3 printers with a MGN12H linear rail on the X axis. 
 
+
 <br>
 
 ![](Images/xview.png)    
@@ -22,6 +23,7 @@ This mod adapts the [LH Stinger](https://github.com/lhndo/LH-Stinger) Toolheads 
 
 * The aligned belt path version is designed to keep both sides of the belt colinear.
 * This requires precise alignment of the belt path and may require some tweaking to get it right.
+* Print with supports for the protruded part supporting the belt
 
 ![](Images/al.png)  
 
