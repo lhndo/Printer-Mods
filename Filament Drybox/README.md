@@ -27,7 +27,7 @@ Print weight - 260g
 
 * 2mm Clear Acrylic Sheet 223x218mm (DIY cut and drill)
 * 5x4 Heat Inserts x 5
-* M3 8mm Countersunk Screws x 5
+* M3 10mm(+) Countersunk Screws x 5
 * D-Shape Weather Stripping Rubber Seal
 
 <br>
@@ -41,9 +41,8 @@ Print weight - 260g
 **Layer Height**: 0.25  
 **Perimeters**: 2  
 **Bottom/Top Layer**: 2/3  
-**Line Width**: 0.54 
 **Infill Density**: 10%   
-**Infill Type**: Honeycomb  
+**Infill Type**: 3D Honeycomb  
 **Wall Generator**: Classic
 
 <br>
